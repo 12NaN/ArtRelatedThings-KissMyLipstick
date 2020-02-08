@@ -5,13 +5,13 @@
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
-    "@testing-library/user-event": "^7.1.2",
+    "@testing-library/user-event": "^7.2.1",
     "react": "^16.8.6",
     "react-bootstrap": "^1.0.0-beta.16",
     "react-bootstrap-carousel": "^4.0.2",
     "react-dom": "^16.8.6",
-    "react-scripts": "3.3.0",
-    "react-scroll": "^1.7.15"
+    "react-scripts": "^3.3.0",
+    "react-scroll": "^1.7.16"
   },
   "scripts": {
     "start": "react-scripts start",
